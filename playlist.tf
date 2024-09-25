@@ -4,7 +4,7 @@ resource "spotify_playlist" "Tollywood" {
   
 }
 
-data "spotify_search_track" "shreya_goshal" {
+data "spotify_search_track" "Shiva_Houde" {
     artist = "shreya_goshal"
 }
 
